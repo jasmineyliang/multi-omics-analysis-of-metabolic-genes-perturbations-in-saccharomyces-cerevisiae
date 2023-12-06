@@ -1,0 +1,3 @@
+1. compare with gold standar and PR, ROC cruve 
+2. knock out one of the gene to see the relationship between the exp and gene expression
+3. clustering each conditions "reduce dimention"
